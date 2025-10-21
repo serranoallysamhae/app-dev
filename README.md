@@ -5,6 +5,10 @@ My first repository
 
 ## **Overview**
 *Stranger Things* is a **sci-fi horror series** created by the Duffer Brothers. It premiered on **Netflix** in **2016** and became a cultural phenomenon.
+![alt text](https://images.plex.tv/photo?size=large-1280&scale=1&url=https:%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrbnuP7hlynAMLdqcQRCpZW9qDkV.jpg)
+
+## **Overview**
+*Stranger Things* is a **sci-fi horror series** created by the Duffer Brothers. It premiered on **Netflix** in **2016** and quickly became a cultural phenomenon.
 
 ---
 
